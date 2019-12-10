@@ -1,0 +1,17 @@
+{
+  "name": "tphlm",
+  "version": "1.0.0",
+  "description": "Projet TP IHM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aissani Abdelillah - Taleb Benkhlouf laid",
+  "license": "ISC",
+  "dependencies": {
+    "@mdi/font": "^4.7.95",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.12",
+    "mysql": "^2.17.1"
+  }
+}
